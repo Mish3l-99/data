@@ -13,7 +13,7 @@ const Footer = () => {
       <div className="container">
         <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 border-b border-gray-600">
           <div className="col-span-2 md:col-span-4 lg:col-span-2 p-4">
-            <h2 className="logo">Data.</h2>
+            <h2 className="logo text-gray-700">Data.</h2>
             <p className="my-4">
               Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ratione
               officia dicta rem tenetur perspiciatis laboriosam placeat
